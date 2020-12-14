@@ -1,0 +1,2 @@
+module hanuka_2 {
+}
